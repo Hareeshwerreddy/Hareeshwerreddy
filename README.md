@@ -1,58 +1,35 @@
-<h1 align="center">Hi 👋, I'm Hareeshwerreddy</h1>
-<h3 align="center">Full Stack Developer | AI & ML Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Hareeshwer Reddy</h1>
+
+<h3 align="center">
+Full Stack Developer | AI/ML Enthusiast | CSE Student
+</h3>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
-  </a>
-
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI%2FML+Learner;MERN+Stack+Developer;Open+Source+Enthusiast"/>
 </p>
 
----
+<p align="center">
 
-# 🚀 About Me
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-- 🎓 B.Tech CSE Student
-- 💻 Full Stack Developer
-- 🤖 Learning AI/ML
-- 🌱 Currently learning MERN Stack
-- ⚡ Love building projects
+<a href="https://linkedin.com/in/hareeshwerreddy-panduga-353530337">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
-
-# 🛠 Tech Stack
-
-## Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-## Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-## Database
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hareeshwerreddy&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareeshwerreddy&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hareeshwerreddy&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareeshwerreddy&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -60,19 +37,79 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hareeshwerreddy&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hareeshwerreddy&theme=tokyonight"/>
 </p>
+
+---
+
+# 🚀 About Me
+
+- 🎓 B.Tech CSE Student at MRCE
+- 💻 Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🌱 Currently learning MERN Stack & Advanced AI
+- ⚡ Passionate about building real-world projects
+
+---
+
+# 🛠 Tech Stack & Skills
+
+| Category | Skills |
+|----------|----------|
+| Frontend | HTML, CSS, JavaScript, React |
+| Backend | Node.js, Express.js |
+| AI/ML | Python, Machine Learning |
+| Database | MongoDB, MySQL |
+| Languages | Java, Python, JavaScript |
+| Tools | Git, GitHub, VS Code |
+
+---
+
+# 📚 Education
+
+🎓 B.Tech in Computer Science Engineering  
+🏫 Malla Reddy College of Engineering  
+📅 2022 - 2026
+
+---
+
+# 🏆 Certifications
+
+- Python Concurrent Programming
+- Machine Learning Internship Certification
+- AI & ML Learning Programs
+
+---
+
+# 📌 Featured Projects
+
+## 🤖 Machine Learning Projects
+Worked on ML internship projects involving data analysis and predictive models.
+
+## 🌐 Full Stack Projects
+Developed responsive web applications using MERN technologies.
+
+## 💻 Java & Python Projects
+Built academic and practical programming projects.
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
 
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
-  </a>
+<a href="https://linkedin.com/in/hareeshwerreddy-panduga-353530337">
+<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Hareeshwerreddy&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
